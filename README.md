@@ -1,5 +1,3 @@
-<img width="441" height="148" alt="Screenshot 2026-05-08 161707" src="https://github.com/user-attachments/assets/b5d06b82-8171-4350-ab23-873a7a008cb6" /># 🔬 DermAI: Skin Cancer Triage Assistant
-
 An AI-powered dermoscopic image classification system that detects **benign vs malignant** skin lesions using CNN deep learning, with an intelligent triage note generator powered by the **Cohere API**.
 
 Built as an Open Ended Lab project for AI & Machine Learning course at IIUI.
