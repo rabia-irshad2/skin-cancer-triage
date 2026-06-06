@@ -6,6 +6,9 @@
 
 # Hide Anaconda projects
 anaconda_projects/
+train/
+test/
+train_concat.csv
 
 # Hide Python cache
 __pycache__/
