@@ -1,0 +1,12 @@
+# Hide API key
+.env
+
+# Hide Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Hide Anaconda projects
+anaconda_projects/
+
+# Hide Python cache
+__pycache__/
+*.pyc
