@@ -4,7 +4,7 @@ Built as an Open Ended Lab project for AI & Machine Learning course at IIUI.
 
 ---
 
-## 🖥️ Demo
+##  Demo
 
 
 <img width="832" height="362" alt="Screenshot 2026-06-06 140728" src="https://github.com/user-attachments/assets/ee3da340-a027-4e6b-ad93-5af3c1261b83" />
@@ -17,19 +17,19 @@ Built as an Open Ended Lab project for AI & Machine Learning course at IIUI.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🧠 CNN model trained on ISIC Skin Cancer Dataset (Kaggle)
-- ✅ Classifies skin lesions as **Benign** or **Malignant**
-- 📋 Auto-generates triage notes using **Cohere API**
-- 🌐 Beautiful **Gradio** web interface
-- 🔒 Secure API key management via python-dotenv
-- ⚠️ Error handling for corrupted images and unsupported formats
-- 📊 Shows confidence score for each prediction
+-  CNN model trained on ISIC Skin Cancer Dataset (Kaggle)
+-  Classifies skin lesions as **Benign** or **Malignant**
+-  Auto-generates triage notes using **Cohere API**
+- Beautiful **Gradio** web interface
+-  Secure API key management via python-dotenv
+-  Error handling for corrupted images and unsupported formats
+-  Shows confidence score for each prediction
 
 ---
 
-## 🏗️ CNN Architecture
+##  CNN Architecture
 
 ```
 Input (224x224x3)
@@ -47,7 +47,7 @@ Dense(1) + Sigmoid → [Benign / Malignant]
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 skin-cancer-triage/
@@ -62,7 +62,7 @@ skin-cancer-triage/
 
 ---
 
-## 📦 Dataset
+##  Dataset
 
 This project uses the **ISIC Skin Cancer Dataset** from Kaggle.
 
@@ -76,7 +76,7 @@ After downloading:
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Install dependencies
 
@@ -111,7 +111,7 @@ Open browser at: http://127.0.0.1:7860
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - Python
 - TensorFlow / Keras
@@ -124,7 +124,7 @@ Open browser at: http://127.0.0.1:7860
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 - Dataset: ISIC Skin Cancer (3000 balanced images)
 - Training Accuracy: ~80%
@@ -132,13 +132,13 @@ Open browser at: http://127.0.0.1:7860
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This tool is for **educational purposes only** and is not a substitute for professional medical diagnosis. Always consult a qualified dermatologist.
 
 ---
 
-## 👩‍💻 Developer
+##  Developer
 
 Rabia Irshad
 GitHub: https://github.com/rabia-irshad2
